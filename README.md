@@ -3,7 +3,7 @@ You will be asked to enter your last 4 digits of your phone number to make it mo
 This was entirely done in python.
 
 ## Why?
-Someone Challenged me to create a password generator and I did.
+Someone Challenged me to create a password generator and I did (don't ask why).
 
-## Technologies
+## Languages and Technologies
 - Python
